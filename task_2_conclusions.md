@@ -1,11 +1,17 @@
 # task_2_conclusions
 
 Paths Obtained:
+
 Depth-First Search (DFS):
+
 Path from 'A' to 'E': ['A', 'B', 'C', 'D', 'E']
+
 Breadth-First Search (BFS):
+
 Path from 'A' to 'E': ['A', 'B', 'C', 'D', 'E']
+
 Analysis and Explanation:
+
 Depth-First Search (DFS):
 
 Nature of DFS:
